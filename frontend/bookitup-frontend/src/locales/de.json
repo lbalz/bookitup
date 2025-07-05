@@ -1,0 +1,20 @@
+{
+    "header": {
+        "title": "Bookitup",
+        "aboutUs": "Über uns"
+    },
+    "footer": {
+        "text": "© 2025 Bookitup. Alle Rechte vorbehalten.",
+        "privacyPolicy": "Datenschutzerklärung",
+        "legalNotice": "Impressum"
+    },
+    "booking": {
+        "name": "Name",
+        "email": "E-Mail",
+        "phone": "Telefonnummer",
+        "title": "Betreff",
+        "description": "Beschreibung",
+        "submit": "Buchen",
+        "cancel": "Abbrechen"
+    }
+}
